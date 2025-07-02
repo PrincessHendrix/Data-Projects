@@ -7,16 +7,16 @@ A Shipment Dashboard also allows a company to track its product deliveries based
 
 In this project, I created a dashboard for an international e-commerce company, using pivot tables to generate and visualize key performance indicators (KPIs). The dashboard provides a quick and insightful overview of orders and shipments across multiple years, helping the company make informed decisions and align their strategies with business goals.
 
-**Visualized Key Perfomance Indicators(KPIs) Include:
-**
-Total Revenue by Region
-Total Revenue by Year
-Revenue by Item Category
-Revenue by Customer Segment
-Shipments by Order Priority
-Shipments by Shipping Mode
+**Visualized Key Perfomance Indicators(KPIs) Include:**
 
-_Dashboard Preview:_
+* Total Revenue by Region
++ Total Revenue by Year
+- Revenue by Item Category
+* Revenue by Customer Segment
++ Shipments by Order Priority
+- Shipments by Shipping Mode
+
+**_Dashboard Preview:_**
 ![ORDERS DASHBOARD](https://github.com/user-attachments/assets/7800c900-3c71-4a67-abd4-463b20465869)
 
 The Dataset:
