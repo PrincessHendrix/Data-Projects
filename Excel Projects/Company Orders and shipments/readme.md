@@ -16,10 +16,10 @@ In this project, I created a dashboard for an international e-commerce company, 
 + Shipments by Order Priority
 - Shipments by Shipping Mode
 
-**_Dashboard Preview:_**
-![ORDERS DASHBOARD](https://github.com/user-attachments/assets/7800c900-3c71-4a67-abd4-463b20465869)
+_**Dashboard Preview:**_
+ ![ORDERS DASHBOARD](https://github.com/user-attachments/assets/657fe894-680c-4706-8407-23f91e456eea)
 
-The Dataset:
+**The Dataset:**
 The dataset contains randomly generated data in separate .csv files arranged in terms of months of years. The final dataset is a merged data from all these files and contains 37,289 rows of order data distributed across 9 columns as follows:
 
 | Column | Description |
