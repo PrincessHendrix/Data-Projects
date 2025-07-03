@@ -17,7 +17,7 @@ In this project, I created a dashboard for an international e-commerce company, 
 - Shipments by Shipping Mode
 
 _**Dashboard Preview:**_
- ![ORDERS DASHBOARD](https://github.com/user-attachments/assets/657fe894-680c-4706-8407-23f91e456eea)
+![ORDERS AND SHIPMENTS DASHBOARD](https://github.com/user-attachments/assets/dd8ab261-a2bb-4128-85e9-7c8ced4578f4)
 
 **The Dataset:**
 The dataset contains randomly generated data in separate .csv files arranged in terms of months of years. The final dataset is a merged data from all these files and contains 37,289 rows of order data distributed across 9 columns as follows:
