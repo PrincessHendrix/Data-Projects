@@ -9,7 +9,6 @@ A healthy credit score will ease the process of getting a loan or credit card fo
 The Dataset:
 For this project, I had used a dataset from Kaggle submitted by Rohan Paris. 
 The dataset contains info about different customers as follows:
-
 Column	Description
 ID	Unique ID of the record
 Customer_ID	Unique ID of the customer
